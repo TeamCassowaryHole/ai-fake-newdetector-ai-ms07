@@ -1,4 +1,4 @@
-# 
+# Mis à jour AI Fake News Detector extensions. Avec détection d'objets et augmentation des données — optimisé pour des performances maximales.
 
 
 
